@@ -13,4 +13,4 @@ jobs:
     -name: break
      run: echo "10 mins"
     -name: practice
-     run: echo "Handsom Practice:
+     run: echo "Handsom Practice"
